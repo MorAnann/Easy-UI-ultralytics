@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['blue', 'green', 'red']
+
+roboflow:
+  workspace: wifidownload
+  project: three-coloer123
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/wifidownload/three-coloer123/dataset/1

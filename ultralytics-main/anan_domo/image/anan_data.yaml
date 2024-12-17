@@ -1,0 +1,12 @@
+train: D:\\yolo\\yolo8\\ultralytics-main\\ultralytics-main\\anan_domo\\image\\threecoloeR123-ed\\train\\images
+val: D:\\yolo\\yolo8\\ultralytics-main\\ultralytics-main\\anan_domo\\image\\threecoloeR123-ed\\valid\\images
+test: D:\\yolo\\yolo8\\ultralytics-main\\ultralytics-main\\anan_domo\\image\\threecoloeR123-ed\\test\\images
+nc: 3
+names: ['blue', 'green', 'red']
+
+#roboflow:
+#  workspace: wifidownload
+#  project: three-coloer123
+#  version: 1
+#  license: CC BY 4.0
+#  url: https://universe.roboflow.com/wifidownload/three-coloer123/dataset/1
